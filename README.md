@@ -20,6 +20,4 @@ It reveals patterns in route usage by **hour of day**, **day of the week**, and 
 ## Technologies Used
 
 - `pandas`, `numpy`, `matplotlib`
-- `folium`, `HeatMapWithTime` for interactive mapping
-- `datashader`, `holoviews`, `panel` for efficient visualization
-- `pyproj` for coordinate transformation (EPSG:4326 → EPSG:3857)
+- `folium`, `HeatMap`, `HeatMapWithTime` for interactive mapping
