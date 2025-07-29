@@ -10,8 +10,8 @@ It reveals patterns in route usage by **hour of day**, **day of the week**, and 
 - **Temporal consistency**: time intervals between sensor readings are mostly regular (under 10 minutes in 99.98% cases).
 
 ### Heatmaps
-- **Panel + Datashader heatmap**: lightweight and efficient rendering of millions of interpolated points on OpenStreetMap.
-- **Heatmap by weekday**: animated map using `HeatMapWithTime`.
+- **General Heatmap**: visualize the spatial patterns of movement
+- **Heatmap by weekday**:aggregated route activity by the weekday.
 - **Heatmap by hour**: aggregated route activity by time of day.
 
 ### Line Charts
